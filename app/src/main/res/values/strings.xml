@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImageFinderMVP</string>
+
+    <string name="base_url">https://us-central1-stashandroidchallenge.cloudfunctions.net/api/</string>
+    <string name="api_key">776491ac68f9bbdd04cf1a810f82703f</string>
+
+    <string name="search_hint">Search Phrase</string>
+    <string name="metadata_title_format">%1$s by %2$s</string>
+
+    <string name="unexpected_error">Something went wrong. Please check your Internet connect and try again!</string>
+    <string name="search_error">Unable to search for images. Please check your Internet connection and try again!</string>
+    <string name="fetch_metadata_error">Unable to load metadata of image.</string>
+    <string name="fetch_similar_images_error"> Pressed image does not contain three similar images.</string>
+
+    <string name="fragment_popup_dialog">Fragment Dialog Popup</string>
+    <string name="image_view">image</string>
+</resources>
